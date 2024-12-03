@@ -3,3 +3,6 @@ My solutions for advent of code this year but using a random language for each p
 
 ## Day01
 - Language: JS/TS (deno)
+
+## Day02
+- Language: Zig
