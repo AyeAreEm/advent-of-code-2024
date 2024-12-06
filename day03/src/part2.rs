@@ -1,6 +1,6 @@
 use regex::Regex;
 
-// this is not my solution, i couldn't solve part 2 with how i solved part 1... I don't wanna learn
+// this is not my solution, i couldn't solve part 2 with how i solved part 1... and i don't wanna learn
 // regex lmao. thanks to @bornsurvivor88 on reddit
 pub fn part2() {
     let input = std::fs::read_to_string("./input.txt").unwrap();
